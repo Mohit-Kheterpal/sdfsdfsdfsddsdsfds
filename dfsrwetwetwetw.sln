@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfsrwetwetwetw", "dfsrwetwetwetw\dfsrwetwetwetw.csproj", "{118FB5E4-8055-4139-991A-4C77529B9341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dfsrwetwetwetw.UITests", "dfsrwetwetwetw.UITests\dfsrwetwetwetw.UITests.csproj", "{D44891B6-0D8B-4B9E-9EB0-62EB0E8F1DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{118FB5E4-8055-4139-991A-4C77529B9341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{118FB5E4-8055-4139-991A-4C77529B9341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{118FB5E4-8055-4139-991A-4C77529B9341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{118FB5E4-8055-4139-991A-4C77529B9341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44891B6-0D8B-4B9E-9EB0-62EB0E8F1DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44891B6-0D8B-4B9E-9EB0-62EB0E8F1DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44891B6-0D8B-4B9E-9EB0-62EB0E8F1DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44891B6-0D8B-4B9E-9EB0-62EB0E8F1DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
